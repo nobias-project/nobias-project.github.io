@@ -4,7 +4,7 @@ Hola
 
 ## Intro to bias
 
-very ood
+very good
 
 ## Conclusions
 
