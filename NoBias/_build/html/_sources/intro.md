@@ -9,3 +9,6 @@ Check out the content pages bundled with this sample book to see more.
 
 ```{tableofcontents}
 ```
+
+![EU](logo.png)
+![EU](images/eu.png)
